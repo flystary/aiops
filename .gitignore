@@ -1,0 +1,7 @@
+modules/agent/agent
+modules/transfer/transfer
+modules/hbs/hbs
+aiops
+.vscode
+.idea
+cfg.yaml
